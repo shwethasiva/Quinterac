@@ -1,0 +1,7 @@
+For each feature, there will be a folder containing input files of the related test cases as well as their adjacent output file in an output folder. 
+Batch files will be used to automate the tests when suitable, and will be held in the same feature folder. 
+Manually produced output files will be prepared to validate each test by comparison. 
+
+Taiga.io is an agile software tracking tool that will be used to track and manage each test case. 
+Each test case will have an attached input file, resulting status (unexecuted, wip, pass, fail, etc) and evidence of the status. 
+A master table will keep all information about each test case, as well as links to the associating Taiga.io test case.
